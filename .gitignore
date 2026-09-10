@@ -1,0 +1,10 @@
+# Ambiente virtual — cada pessoa gera o seu próprio
+venv/
+__pycache__/
+*.pyc
+
+# Variáveis sensíveis
+.env
+
+# Configuração de editor
+.vscode/
